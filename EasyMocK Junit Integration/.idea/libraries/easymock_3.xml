@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="easymock-3">
+    <CLASSES>
+      <root url="file://F:/_Softs/java Technologies Softs/EasyMock/easymock-3.4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/_Softs/java Technologies Softs/EasyMock/easymock-3.4" />
+    </SOURCES>
+    <jarDirectory url="file://F:/_Softs/java Technologies Softs/EasyMock/easymock-3.4" recursive="false" />
+    <jarDirectory url="file://F:/_Softs/java Technologies Softs/EasyMock/easymock-3.4" recursive="false" type="SOURCES" />
+  </library>
+</component>
